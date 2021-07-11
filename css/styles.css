@@ -1,3 +1,13 @@
 .head {
-    background-color: blue;
+    outline: solid red;
+    
+}
+
+.pages ul {
+    list-style-type: none;
+}
+
+.pages li {
+    display: inline;
+    margin: 20px;
 }
